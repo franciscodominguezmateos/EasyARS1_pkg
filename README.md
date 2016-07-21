@@ -14,11 +14,13 @@ SOX sound package in order to record from mic
 sudo apt-get install sox
 
 python_speech_features
+
 https://github.com/jameslyons/python_speech_features
 
 http://python-speech-features.readthedocs.io/en/latest/
 
 http://www.practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
+
 This project is on pypi
 
 To install from pypi:
@@ -28,14 +30,17 @@ sudo pip install python_speech_features
 From this repository:
 
 git clone https://github.com/jameslyons/python_speech_features
+
 sudo python setup.py develop
 
 Install fastdtw
+
 https://github.com/slaypni/fastdtw
 
 sudo pip install fastdtw
 
 And finally put in cd to your catkin_ws/src folder and do a
+
 git clone https://github.com/franciscodominguezmateos/EasyARS1_pkg
 
 rosrun EasyARS1_pkg recognizer.py
