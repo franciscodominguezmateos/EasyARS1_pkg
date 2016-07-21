@@ -15,7 +15,9 @@ sudo apt-get install sox
 
 python_speech_features
 https://github.com/jameslyons/python_speech_features
+
 http://python-speech-features.readthedocs.io/en/latest/
+
 http://www.practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
 This project is on pypi
 
